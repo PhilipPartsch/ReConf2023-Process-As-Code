@@ -13,7 +13,14 @@ this process handbook.
    :caption: Processes
    
    processes/create_artifacts
+   processes/test
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Work Instructions
+   
+   instructions/testing
 
 
 .. toctree::
@@ -24,7 +31,6 @@ this process handbook.
    landscape/artifacts
    landscape/repositories
    landscape/lifecycle
-
 
 
 .. toctree::

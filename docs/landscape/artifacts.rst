@@ -199,6 +199,16 @@ Content
 
 
 
+.. artifact:: Software Test Coverage
+   :id: ART_TEST_COVERAGE
+   :stored_in: ART_DEV_DOCU
+
+   The :need:`ART_TEST_COVERAGE` is the coverage of a Software Test Execution specified by
+   :need:`ART_TEST_SPEC`.
+
+
+
+
 .. artifact:: Software Test Log
    :id: ART_TEST_LOG
    :stored_in: ART_DEV_DOCU
@@ -208,14 +218,14 @@ Content
 
 
 
-.. artifact::  Release Notes
+.. artifact:: Release Notes
    :id: ART_REL_NOTE
    :stored_in: ART_SW_DOCU
    :status: draft
 
    Todo
 
-.. artifact::  Release Branch
+.. artifact:: Release Branch
    :id: ART_REL_BR
    :stored_in: REPO_GIT
    :status: draft
